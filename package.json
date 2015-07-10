@@ -1,0 +1,11 @@
+{
+  "name": "Kamino",
+  "version": "0.0.2",
+  "dependencies": {
+    "express": "4.8.2",
+    "socket.io": "1.0.6",
+    "request": "2.54.0",
+    "moment": "2.10.2",
+    "body-parser": "~1.12.3"
+  }
+}
